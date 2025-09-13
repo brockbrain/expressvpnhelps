@@ -1,9 +1,9 @@
-How to Login to Your ExpressVPN Account Easily?
+How to Login Your ExpressVPN Account Easily?
 ==============================================
 
 ExpressVPN is one of the most trusted and popular virtual private network (VPN) services available today. Known for its high-speed servers, strong encryption, and user-friendly interface, ExpressVPN offers a secure and private way to browse the web. Whether you’re using it for streaming, browsing, or enhancing your online security, logging into your ExpressVPN account is the first step to accessing these features.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
