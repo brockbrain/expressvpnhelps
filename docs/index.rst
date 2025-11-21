@@ -7,7 +7,7 @@ ExpressVPN is one of the most trusted and popular virtual private network (VPN) 
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://evpn.officialredir.com
+   :target: https://account-expressvpn.com/
 
 If you’re new to ExpressVPN or encountering login issues, don’t worry. In this guide, we’ll walk you through the process of logging into your ExpressVPN account step-by-step. Whether you’re using a computer, smartphone, or tablet, the process is simple and quick.
 
